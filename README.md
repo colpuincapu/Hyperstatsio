@@ -1,0 +1,2 @@
+# Hyperstatsio
+Trading tool bot
